@@ -1,0 +1,16 @@
+id,date,amount,category,description
+1,2024-06-01,250.00,Food,Lunch at office canteen
+2,2024-06-03,1200.00,Travel,Monthly metro pass
+3,2024-06-05,3500.00,Shopping,New shirt and jeans
+4,2024-06-07,899.00,Bills,Electricity bill
+5,2024-06-10,500.00,Entertainment,Movie tickets (2)
+6,2024-06-12,180.00,Food,Dinner - pizza
+7,2024-06-14,2000.00,Bills,Internet subscription (annual)
+8,2024-06-16,450.00,Food,Grocery shopping
+9,2024-06-18,600.00,Travel,Cab to airport
+10,2024-06-20,1500.00,Shopping,Books for course
+11,2024-07-01,300.00,Food,Breakfast meeting
+12,2024-07-03,750.00,Entertainment,Concert tickets
+13,2024-07-05,1100.00,Bills,Mobile recharge (quarterly)
+14,2024-07-08,220.00,Food,Quick lunch
+15,2024-07-10,4000.00,Travel,Train tickets (round trip)
