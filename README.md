@@ -142,26 +142,7 @@ so you can explore all features immediately after cloning.
 
 ---
 
-## 📤 Uploading to GitHub
 
-```bash
-# 1. Initialise git inside the project folder
-cd expense_tracker
-git init
-
-# 2. Add all files
-git add .
-
-# 3. First commit
-git commit -m "Initial commit: Expense Tracker CLI app"
-
-# 4. Create a new repo on github.com (name: expense-tracker)
-#    Then link it:
-git remote add origin https://github.com/YOUR_USERNAME/expense-tracker.git
-
-# 5. Push
-git branch -M main
-git push -u origin main
 ```
 
 ### Recommended `.gitignore`
